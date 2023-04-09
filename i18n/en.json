@@ -1,0 +1,20 @@
+{
+	"bulkblock": "Bulk block users",
+	"bulkblock-desc": "Allows blocking of users by providing a list in a Special page textarea",
+	"bulkblock-intro": "This page allows you to block multiple users at once. Enter the usernames of existing users in the box below, one per line, and a reason and a block duration. Users will be blocked indefinitely.",
+	"bulkblock-usernames": "Usernames:",
+	"bulkblock-reason": "Reason:",
+	"bulkblock-submit": "Block",
+	"bulkblock-no-usernames": "No valid usernames were provided.",
+	"bulkblock-success": "$1 {{PLURAL:$1|user|users}} {{PLURAL:$1|was|were}} blocked successfully.",
+	"bulkblock-invalid-username": "'$1' is not a valid username.",
+	"bulkblock-non-existing-username": "'$1' user does not exist.",
+	"bulkblock-already-blocked": "'$1' user is already blocked.",
+	"bulkblock-failed": "'$1' {{PLURAL:$1|user|users}} could not be blocked.",
+	"bulkblock-log-failed": "Failed to insert log record for '$1' user",
+	"bulkblock-errors": "The following {{PLURAL:$1|error|errors}} occurred: ",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Back to Bulk Block]]",
+	"bulkblock-expiry": "Expiry:",
+	"action-bulkblock": "Block users in a bulk",
+	"right-bulkblock": "Block users in a bulk"
+}

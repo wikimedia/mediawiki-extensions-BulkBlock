@@ -1,0 +1,20 @@
+{
+	"bulkblock": "{{name}}",
+	"bulkblock-desc": "{{desc|what=extension|name=BulkBlock}}",
+	"bulkblock-intro": "Intro that's displayed on the Special page above form",
+	"bulkblock-usernames": "Label for usernames textarea",
+	"bulkblock-reason": "Label for reason input",
+	"bulkblock-submit": "Label for Block buuton",
+	"bulkblock-no-usernames": "Error message for no valid usernames provided",
+	"bulkblock-success": "Success message with amount of users blocked",
+	"bulkblock-invalid-username": "Error message telling the username is invalid",
+	"bulkblock-non-existing-username": "Error message telling the user does not exists",
+	"bulkblock-already-blocked": "Error message telling the user is already blocked",
+	"bulkblock-failed": "Error message telling the user block failed",
+	"bulkblock-log-failed": "Error message telling log recording failed",
+	"bulkblock-errors": "Intro message for displaying errors",
+	"bulkblock-linkback": "Text for link back to Special page",
+	"bulkblock-expiry": "Expiry label",
+	"action-bulkblock": "{{doc-action|bulkblock}}",
+	"right-bulkblock": "{{doc-right|bulkblock}}"
+}
