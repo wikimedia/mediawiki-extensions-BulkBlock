@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"আফতাবুজ্জামান"
+		]
+	},
+	"bulkblock-usernames": "ব্যবহারকারী নামসমূহ:",
+	"bulkblock-reason": "কারণ:",
+	"bulkblock-submit": "বাধা দিন",
+	"bulkblock-non-existing-username": "ব্যবহারকারী '$1'-এর অস্তিত্ব নেই।"
+}

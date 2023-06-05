@@ -1,4 +1,7 @@
 {
+	"@metadata": {
+		"authors": []
+	},
 	"bulkblock": "{{name}}",
 	"bulkblock-desc": "{{desc|what=extension|name=BulkBlock}}",
 	"bulkblock-intro": "Intro that's displayed on the Special page above form",

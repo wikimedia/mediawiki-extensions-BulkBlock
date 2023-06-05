@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"Eleassar"
+		]
+	},
+	"bulkblock": "Množično blokiranje uporabnikov",
+	"bulkblock-desc": "Omogoča blokiranje uporabnikov z zagotavljanjem seznama v besedilnem polju posebne strani",
+	"bulkblock-intro": "Ta stran vam omogoča, da blokirate več uporabnikov hkrati. Vnesite uporabniška imena obstoječih uporabnikov v spodnje polje, po eno v vsako vrstico, ter razlog in trajanje blokiranja. Uporabniki bodo blokirani za nedoločen čas.",
+	"bulkblock-usernames": "Uporabniška imena:",
+	"bulkblock-reason": "Razlog:",
+	"bulkblock-submit": "Blokiraj",
+	"bulkblock-no-usernames": "Navedeno ni bilo nobeno veljavno uporabniško ime.",
+	"bulkblock-success": "$1 {{PLURAL:$1|uporabnik je bil uspešno blokiran|sta bila uspešno blokirana|so bili uspešno blokirani|je bilo uspešno blokiranih}}.",
+	"bulkblock-invalid-username": "»$1« ni veljavno uporabniško ime.",
+	"bulkblock-non-existing-username": "Uporabnik ali uporabnica »$1« ne obstaja.",
+	"bulkblock-already-blocked": "Uporabnik ali uporabnica »$1« je že blokiran(a).",
+	"bulkblock-failed": "»$1« {{PLURAL:$1|uporabnika|uporabnikov}} ni bilo mogoče blokirati.",
+	"bulkblock-log-failed": "Dnevniškega zapisa za uporabnika »$1« ni bilo mogoče vstaviti",
+	"bulkblock-errors": "Prišlo je do {{PLURAL:$1|nasledje napake|naslednjih napak}}:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Nazaj na množično blokiranje]]",
+	"bulkblock-expiry": "Pretek:",
+	"action-bulkblock": "množično blokiranje uporabnikov",
+	"right-bulkblock": "Množično blokiranje uporabnikov"
+}
