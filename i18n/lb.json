@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Volvox"
+		]
+	},
+	"bulkblock-usernames": "Benotzernimm:",
+	"bulkblock-reason": "Grond:",
+	"bulkblock-success": "$1 {{PLURAL:$1|Benotzer|Benotzer}} {{PLURAL:$1| gouf|goufen}} erfollegräich blockéiert.",
+	"bulkblock-invalid-username": "'$1' ass kee valabele Benotzernumm."
+}

@@ -1,13 +1,15 @@
 {
 	"@metadata": {
-		"authors": []
+		"authors": [
+			"Abijeet Patro"
+		]
 	},
 	"bulkblock": "{{name}}",
 	"bulkblock-desc": "{{desc|what=extension|name=BulkBlock}}",
 	"bulkblock-intro": "Intro that's displayed on the Special page above form",
 	"bulkblock-usernames": "Label for usernames textarea",
 	"bulkblock-reason": "Label for reason input",
-	"bulkblock-submit": "Label for Block buuton",
+	"bulkblock-submit": "Label for Block button",
 	"bulkblock-no-usernames": "Error message for no valid usernames provided",
 	"bulkblock-success": "Success message with amount of users blocked",
 	"bulkblock-invalid-username": "Error message telling the username is invalid",

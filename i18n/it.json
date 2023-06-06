@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"Beta16"
+		]
+	},
+	"bulkblock-usernames": "Nomi utente:",
+	"bulkblock-reason": "Motivo:",
+	"bulkblock-invalid-username": "'$1' non è un nome utente valido.",
+	"bulkblock-non-existing-username": "L'utente '$1' non esiste.",
+	"bulkblock-already-blocked": "L'utente '$1' è già bloccato.",
+	"bulkblock-expiry": "Scadenza:"
+}

@@ -4,6 +4,8 @@
 			"MathXplore"
 		]
 	},
+	"bulkblock-usernames": "利用者名:",
 	"bulkblock-reason": "理由:",
-	"bulkblock-submit": "ブロック"
+	"bulkblock-submit": "ブロック",
+	"bulkblock-invalid-username": "\"$1\" は有効な利用者名ではありません。"
 }
