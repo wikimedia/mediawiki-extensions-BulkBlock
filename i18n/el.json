@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"AProdromou",
+			"Spyridon Eftychios Kokotos"
+		]
+	},
+	"bulkblock-intro": "Αυτή η σελίδα σας επιτρέπει να αποκλείσετε πολλούς χρήστες ταυτόχρονα. Εισαγάγετε τα ονόματα χρήστη των υπαρχόντων χρηστών στο παρακάτω πλαίσιο, ένα ανά γραμμή και το λόγο και τη διάρκεια αποκλεισμού. Οι χρήστες θα αποκλειστούν επ' αόριστον.",
+	"bulkblock-usernames": "Ονόματα χρηστών:",
+	"bulkblock-reason": "Αιτία:",
+	"bulkblock-submit": "Φραγή",
+	"bulkblock-no-usernames": "Δεν δόθηκαν έγκυρα ονόματα χρήστη.",
+	"bulkblock-invalid-username": "Το ' $1 ' δεν είναι έγκυρο όνομα χρήστη.",
+	"bulkblock-non-existing-username": "Ο χρήστης \" $1 \" δεν υπάρχει.",
+	"bulkblock-already-blocked": "Ο χρήστης \" $1 \" είναι ήδη αποκλεισμένος.",
+	"bulkblock-failed": "' $1 ' {{PLURAL:$1| user|users}} δεν μπόρεσε να αποκλειστεί.",
+	"bulkblock-expiry": "Λήξη:",
+	"action-bulkblock": "Μαζικός αποκλεισμός χρηστών",
+	"right-bulkblock": "Μαζικός αποκλεισμός χρηστών"
+}

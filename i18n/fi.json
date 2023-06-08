@@ -4,5 +4,8 @@
 			"Pyscowicz"
 		]
 	},
-	"bulkblock-reason": "Syy:"
+	"bulkblock-usernames": "Käyttäjänimet:",
+	"bulkblock-reason": "Syy:",
+	"bulkblock-submit": "Estä",
+	"bulkblock-invalid-username": "'$1' ei ole kelvollinen käyttäjänimi."
 }

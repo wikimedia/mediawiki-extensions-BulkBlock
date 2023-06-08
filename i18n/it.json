@@ -4,10 +4,17 @@
 			"Beta16"
 		]
 	},
+	"bulkblock": "Blocco collettivo degli utenti",
 	"bulkblock-usernames": "Nomi utente:",
 	"bulkblock-reason": "Motivo:",
+	"bulkblock-submit": "Blocca",
 	"bulkblock-invalid-username": "'$1' non è un nome utente valido.",
 	"bulkblock-non-existing-username": "L'utente '$1' non esiste.",
 	"bulkblock-already-blocked": "L'utente '$1' è già bloccato.",
-	"bulkblock-expiry": "Scadenza:"
+	"bulkblock-failed": "'$1' {{PLURAL:$1|utente non può essere bloccato|utenti non possono essere bloccati}}.",
+	"bulkblock-errors": "{{PLURAL:$1|Si è verificato il seguente errore|Si sono verificati i seguenti errori}}:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Torna al blocco collettivo]]",
+	"bulkblock-expiry": "Scadenza:",
+	"action-bulkblock": "bloccare collettivamente gli utenti",
+	"right-bulkblock": "Blocca collettivamente gli utenti"
 }
