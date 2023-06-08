@@ -15,6 +15,6 @@
 	"bulkblock-errors": "The following {{PLURAL:$1|error|errors}} occurred: ",
 	"bulkblock-linkback": "[[:Special:BulkBlock|Back to Bulk Block]]",
 	"bulkblock-expiry": "Expiry:",
-	"action-bulkblock": "Block users in a bulk",
-	"right-bulkblock": "Block users in a bulk"
+	"action-bulkblock": "block users in bulk",
+	"right-bulkblock": "Block users in bulk"
 }
