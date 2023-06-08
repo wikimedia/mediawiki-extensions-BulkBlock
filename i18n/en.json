@@ -1,5 +1,5 @@
 {
-	"bulkblock": "Bulk block users",
+	"bulkblock": "BulkBlock",
 	"bulkblock-desc": "Allows blocking of users by providing a list in a Special page textarea",
 	"bulkblock-intro": "This page allows you to block multiple users at once. Enter the usernames of existing users in the box below, one per line, and a reason and a block duration. Users will be blocked indefinitely.",
 	"bulkblock-usernames": "Usernames:",
