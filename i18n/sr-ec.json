@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Milicevic01"
+		]
+	},
+	"bulkblock-usernames": "Корисничка имена:",
+	"bulkblock-reason": "Разлог:",
+	"bulkblock-submit": "Блокирај",
+	"bulkblock-expiry": "Истиче:"
+}
