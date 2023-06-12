@@ -17,6 +17,6 @@
 	"bulkblock-failed": "' $1 ' {{PLURAL:$1| user|users}} δεν μπόρεσε να αποκλειστεί.",
 	"bulkblock-log-failed": "Αποτυχία εισαγωγής εγγραφής καταγραφής για χρήστη \" $1 \"",
 	"bulkblock-expiry": "Λήξη:",
-	"action-bulkblock": "Μαζικός αποκλεισμός χρηστών",
+	"action-bulkblock": "αποκλεισμός χρηστών μαζικά",
 	"right-bulkblock": "Μαζικός αποκλεισμός χρηστών"
 }

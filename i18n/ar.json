@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Asma"
+		]
+	},
+	"bulkblock-desc": "يسمح بحظر المستخدمين من خلال توفير قائمة في منطقة نصية خاصة بصفحة",
+	"bulkblock-intro": "تسمح لك هذه الصفحة بحظر عدة مستخدمين في وقت واحد. أدخل أسماء المستخدمين الحاليين في المربع أدناه ، واحدًا لكل سطر ، وسببًا ومدة الحظر. سيتم حظر المستخدمين إلى أجل غير مسمى.",
+	"bulkblock-usernames": "أسماء المستخدمين:",
+	"bulkblock-reason": "السبب:",
+	"bulkblock-submit": "منع",
+	"bulkblock-no-usernames": "لم يتم تقديم أسماء مستخدمين صالحة.",
+	"bulkblock-success": "$1 $1 {{PLURAL:$1|user was|users were}} منعت.",
+	"bulkblock-invalid-username": "'$1' ليس اسم مستخدم صالحًا.",
+	"bulkblock-non-existing-username": "مستخدم \"$1\" غير موجود.",
+	"bulkblock-already-blocked": "المستخدم \"$1\" محظور بالفعل.",
+	"bulkblock-failed": "$1 {{PLURAL:$1| user | users}} لا يمكن حظره.",
+	"bulkblock-log-failed": "فشل في إدراج سجل سجل للمستخدم '$1'",
+	"bulkblock-errors": "ما يلي {{PLURAL:$1|error|errors}} حدث:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Back to Bulk Block]]",
+	"bulkblock-expiry": "انتهاء:",
+	"action-bulkblock": "حظر المستخدمين بشكل جماعي",
+	"right-bulkblock": "حظر المستخدمين بشكل جماعي"
+}

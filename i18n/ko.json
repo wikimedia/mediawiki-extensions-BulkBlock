@@ -1,0 +1,20 @@
+{
+	"@metadata": {
+		"authors": [
+			"Ykhwong"
+		]
+	},
+	"bulkblock-usernames": "사용자 이름:",
+	"bulkblock-reason": "이유:",
+	"bulkblock-submit": "차단",
+	"bulkblock-no-usernames": "유효한 사용자 이름이 지정되지 않았습니다.",
+	"bulkblock-success": "{{PLURAL:$1|사용자}} $1명을 차단했습니다.",
+	"bulkblock-invalid-username": "'$1' 사용자는 유효한 사용자 이름이 아닙니다.",
+	"bulkblock-non-existing-username": "'$1' 사용자는 존재하지 않습니다.",
+	"bulkblock-already-blocked": "'$1' 사용자는 이미 차단되었습니다.",
+	"bulkblock-failed": "{{PLURAL:$1|사용자}} $1명을 차단하지 못했습니다.",
+	"bulkblock-errors": "다음 {{PLURAL:$1|오류}}가 발생했습니다:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|대량 차단으로 돌아가기]]",
+	"action-bulkblock": "대량으로 사용자를 차단할",
+	"right-bulkblock": "대량으로 사용자 차단"
+}

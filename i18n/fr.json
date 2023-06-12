@@ -4,7 +4,7 @@
 			"Verdy p"
 		]
 	},
-	"bulkblock": "Bloquer en masse des utilisateurs",
+	"bulkblock": "Bloquer en masse",
 	"bulkblock-desc": "Permet de bloquer des utilisateurs en fournissant une liste dans une champ de texte d’une page spéciale",
 	"bulkblock-intro": "Cette page vous permet de bloquer plusieurs utilisateurs à la fois. Saisissez les noms d’utilisateur des utilisateurs existants dans la case ci-dessous, un par ligne, ainsi qu’un motif et une durée de blocage. Ces utilisateurs seront bloqués indéfiniment.",
 	"bulkblock-usernames": "Noms d’utilisateur :",
