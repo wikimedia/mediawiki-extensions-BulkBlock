@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Winston Sung"
+		]
+	},
+	"bulkblock-usernames": "使用者名稱：",
+	"bulkblock-reason": "原因：",
+	"bulkblock-submit": "封鎖",
+	"bulkblock-non-existing-username": "不存在使用者「$1」。",
+	"bulkblock-linkback": "[[:Special:BulkBlock|返回批量封鎖]]",
+	"action-bulkblock": "批量封鎖使用者",
+	"right-bulkblock": "批量封鎖使用者"
+}
