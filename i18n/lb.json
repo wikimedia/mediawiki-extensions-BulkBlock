@@ -7,5 +7,8 @@
 	"bulkblock-usernames": "Benotzernimm:",
 	"bulkblock-reason": "Grond:",
 	"bulkblock-success": "$1 {{PLURAL:$1|Benotzer|Benotzer}} {{PLURAL:$1| gouf|goufen}} erfollegräich blockéiert.",
-	"bulkblock-invalid-username": "'$1' ass kee valabele Benotzernumm."
+	"bulkblock-invalid-username": "'$1' ass kee valabele Benotzernumm.",
+	"bulkblock-non-existing-username": "De Benotzer „$1“ gëtt et net.",
+	"bulkblock-already-blocked": "De Benotzer „$1“ ass scho gespaart.",
+	"bulkblock-errors": "{{PLURAL:$1|De follgende Feeler ass|Déi follgend Feeler sinn}} geschitt:"
 }
