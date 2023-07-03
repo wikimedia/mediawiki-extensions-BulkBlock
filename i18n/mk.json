@@ -15,11 +15,11 @@
 	"bulkblock-invalid-username": "„$1“ не претставува важечко корисничко име.",
 	"bulkblock-non-existing-username": "Корисникот „$1“ не постои.",
 	"bulkblock-already-blocked": "Корисникот „$1“ е веќе блокиран.",
-	"bulkblock-failed": "Не можев да {{PLURAL:$1|го блокирам корисникот|ги блокирам корисниците}} „$1“.",
+	"bulkblock-failed": "Не можев да {{PLURAL:$1|го блокирам корисникот|ги блокирам корисниците}} $1.",
 	"bulkblock-log-failed": "Не можев да внесам дневнички запис за корисникот „$1“",
 	"bulkblock-errors": "{{PLURAL:$1|Се појави следнава грешка|Се појавија следниве грешки}}:",
 	"bulkblock-linkback": "[[:Special:BulkBlock|Назад на Масовно блокирање]]",
 	"bulkblock-expiry": "Истек:",
-	"action-bulkblock": "Масовно блокирање на корисници",
+	"action-bulkblock": "масовно блокирање на корисници",
 	"right-bulkblock": "Масовно блокирање на корисници"
 }
