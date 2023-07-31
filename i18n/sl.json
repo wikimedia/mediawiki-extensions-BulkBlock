@@ -17,7 +17,7 @@
 	"bulkblock-already-blocked": "Uporabnik ali uporabnica »$1« je že blokiran(a).",
 	"bulkblock-failed": "$1 {{PLURAL:$1|uporabnika|uporabnikov}} ni bilo mogoče blokirati.",
 	"bulkblock-log-failed": "Dnevniškega zapisa za uporabnika »$1« ni bilo mogoče vstaviti",
-	"bulkblock-errors": "Prišlo je do {{PLURAL:$1|nasledje napake|naslednjih napak}}:",
+	"bulkblock-errors": "Prišlo je do {{PLURAL:$1|naslednje napake|naslednjih napak}}:",
 	"bulkblock-linkback": "[[:Special:BulkBlock|Nazaj na množično blokiranje]]",
 	"bulkblock-expiry": "Pretek:",
 	"action-bulkblock": "množično blokiranje uporabnikov",
