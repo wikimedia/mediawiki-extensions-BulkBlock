@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"McDutchie"
+		]
+	},
+	"bulkblock-desc": "Staat het blokkeren van gebruikers toe door een lijst op te geven in een tekstgebied van een speciale pagina",
+	"bulkblock-intro": "Op deze pagina kunt u meerdere gebruikers tegelijk blokkeren. Voer de gebruikersnamen van bestaande gebruikers in het onderstaande vak in, één per regel, alsmede een reden en een blokkeringsduur. Gebruikers worden voor onbepaalde tijd geblokkeerd.",
+	"bulkblock-usernames": "Gebruikersnamen:",
+	"bulkblock-reason": "Reden:",
+	"bulkblock-submit": "Blokkeren",
+	"bulkblock-no-usernames": "Er zijn geen geldige gebruikersnamen opgegeven.",
+	"bulkblock-success": "$1 {{PLURAL:$1|gebruiker is|gebruikers zijn}} geblokkeerd.",
+	"bulkblock-invalid-username": "'$1' is geen geldige gebruikersnaam.",
+	"bulkblock-non-existing-username": "Gebruiker '$1' bestaat niet.",
+	"bulkblock-already-blocked": "Gebruiker '$1' is al geblokkeerd.",
+	"bulkblock-failed": "$1 {{PLURAL:$1|gebruiker kon|gebruikers konden}} niet worden geblokkeerd.",
+	"bulkblock-log-failed": "Kan logboekregel voor gebruiker '$1' niet invoegen",
+	"bulkblock-errors": "De volgende {{PLURAL:$1|fout is|fouten zijn}} opgetreden:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Terug naar Bulk Block]]",
+	"bulkblock-expiry": "Verloopt:",
+	"action-bulkblock": "gebruikers massaal te blokkeren",
+	"right-bulkblock": "Gebruikers massaal blokkeren"
+}
