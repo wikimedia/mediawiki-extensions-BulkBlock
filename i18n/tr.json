@@ -1,10 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
-			"Asma"
+			"Asma",
+			"Hedda"
 		]
 	},
+	"bulkblock-desc": "Özel sayfa metin alanında bir liste getirerek kullanıcıların engellenmesine izin verir",
+	"bulkblock-intro": "Bu sayfa aynı anda birden fazla kullanıcıyı engellemenize olanak tanır. Mevcut kullanıcıların kullanıcı adlarını aşağıdaki kutuya, her satıra bir tane olacak şekilde nedenini ve engelleme süresini girin. Kullanıcılar, süresiz olarak engellenecektir.",
 	"bulkblock-usernames": "Kullanıcı adları:",
 	"bulkblock-reason": "Sebep:",
-	"bulkblock-submit": "Engelle"
+	"bulkblock-submit": "Engelle",
+	"bulkblock-no-usernames": "Geçerli kullanıcı adları bulunmadı.",
+	"bulkblock-success": "$1 {{PLURAL:$1|kullanıcı}} engellendi.",
+	"bulkblock-invalid-username": "'$1', geçerli bir kullanıcı adı değil.",
+	"bulkblock-non-existing-username": "'$1' kullanıcısı mevcut değil.",
+	"bulkblock-already-blocked": "'$1' kullanıcısı zaten engellenmiş.",
+	"bulkblock-failed": "$1 {{PLURAL:$1|kullanıcı}} engellenemedi",
+	"bulkblock-log-failed": "'$1' kullanıcısı için günlük kaydı eklenemedi",
+	"bulkblock-errors": "Aşağıdaki {{PLURAL:$1|hata|hatalar}} oluştu:",
+	"bulkblock-linkback": "[[:Special:BulkBlock|Toplu Engellemeye Geri Git]]",
+	"bulkblock-expiry": "Bitiş:",
+	"action-bulkblock": "kullanıcıları toplu olarak engelle",
+	"right-bulkblock": "Kullanıcıları toplu olarak engelle"
 }
