@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Aishik Rehman",
 			"Yahya",
 			"আফতাবুজ্জামান"
 		]
@@ -8,7 +9,7 @@
 	"bulkblock-usernames": "ব্যবহারকারী নামসমূহ:",
 	"bulkblock-reason": "কারণ:",
 	"bulkblock-submit": "বাধা দিন",
-	"bulkblock-no-usernames": "কোন বৈধ ব্যবহারকারীর নাম প্রদান করা হয়নি।",
+	"bulkblock-no-usernames": "কোনো বৈধ ব্যবহারকারীর নাম প্রদান করা হয়নি।",
 	"bulkblock-non-existing-username": "ব্যবহারকারী '$1'-এর অস্তিত্ব নেই।",
 	"bulkblock-already-blocked": "ব্যবহারকারী '$1' ইতিমধ্যে বাধাপ্রাপ্ত।"
 }

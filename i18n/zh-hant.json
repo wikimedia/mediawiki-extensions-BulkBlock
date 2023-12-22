@@ -1,14 +1,25 @@
 {
 	"@metadata": {
 		"authors": [
+			"Kly",
 			"Winston Sung"
 		]
 	},
+	"bulkblock-desc": "允許透過在特殊頁面文字區域中提供清單來封鎖使用者",
+	"bulkblock-intro": "此頁面允許您一次封鎖多位使用者。請在下面的方框裡輸入現有使用者的使用者名稱（每行一位），以及封鎖的原因與持續時間。使用者將被無限期封鎖。",
 	"bulkblock-usernames": "使用者名稱：",
 	"bulkblock-reason": "原因：",
 	"bulkblock-submit": "封鎖",
+	"bulkblock-no-usernames": "未提供有效的使用者名稱。",
+	"bulkblock-success": "已封鎖 $1 位{{PLURAL:$1|使用者}}。",
+	"bulkblock-invalid-username": "「$1」不是有效的使用者名稱。",
 	"bulkblock-non-existing-username": "不存在使用者「$1」。",
+	"bulkblock-already-blocked": "使用者「$1」已被封鎖。",
+	"bulkblock-failed": "無法封鎖 $1 位{{PLURAL:$1|使用者}}。",
+	"bulkblock-log-failed": "插入使用者「$1」使用者的日誌紀錄失敗",
+	"bulkblock-errors": "發生以下{{PLURAL:$1|錯誤}}：",
 	"bulkblock-linkback": "[[:Special:BulkBlock|返回批量封鎖]]",
+	"bulkblock-expiry": "期限：",
 	"action-bulkblock": "批量封鎖使用者",
 	"right-bulkblock": "批量封鎖使用者"
 }
