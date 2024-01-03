@@ -14,7 +14,7 @@
 	"bulkblock-success": "$1 {{PLURAL:$1|uporabnik je bil uspešno blokiran|sta bila uspešno blokirana|so bili uspešno blokirani|je bilo uspešno blokiranih}}.",
 	"bulkblock-invalid-username": "»$1« ni veljavno uporabniško ime.",
 	"bulkblock-non-existing-username": "Uporabnik ali uporabnica »$1« ne obstaja.",
-	"bulkblock-already-blocked": "Uporabnik ali uporabnica »$1« je že blokiran(a).",
+	"bulkblock-already-blocked": "Uporabnik ali uporabnica »$1« je že blokiran_a.",
 	"bulkblock-failed": "$1 {{PLURAL:$1|uporabnika|uporabnikov}} ni bilo mogoče blokirati.",
 	"bulkblock-log-failed": "Dnevniškega zapisa za uporabnika »$1« ni bilo mogoče vstaviti",
 	"bulkblock-errors": "Prišlo je do {{PLURAL:$1|naslednje napake|naslednjih napak}}:",
