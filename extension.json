@@ -1,8 +1,9 @@
 {
 	"name": "BulkBlock",
+	"namemsg": "bulkblock-extensionname",
 	"author": "WikiTeq team",
 	"url": "https://www.mediawiki.org/wiki/Special:MyLanguage/Extension:BulkBlock",
-	"description": "Allows blocking of users by providing a list in a Special page textarea",
+	"descriptionmsg": "bulkblock-desc",
 	"version": "1.0.0",
 	"license-name": "GPL-2.0-or-later",
 	"type": "specialpage",
