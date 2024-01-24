@@ -1,10 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Abijeet Patro"
+			"Abijeet Patro",
+			"Anterdc99"
 		]
 	},
-	"bulkblock": "{{name}}",
+	"bulkblock": "{{doc-special|BulkBlock}}",
+	"bulkblock-extensionname": "{{name}}",
 	"bulkblock-desc": "{{desc|what=extension|name=BulkBlock}}",
 	"bulkblock-intro": "Intro that's displayed on the Special page above form",
 	"bulkblock-usernames": "Label for usernames textarea",

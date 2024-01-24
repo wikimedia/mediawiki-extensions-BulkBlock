@@ -1,7 +1,16 @@
 {
-	"bulkblock": "BulkBlock",
+	"@metadata": {
+		"authors": [
+			"Amire80",
+			"Anterdc99",
+			"Brian Wolff",
+			"Vedmaka"
+		]
+	},
+	"bulkblock": "Block users in bulk",
+	"bulkblock-extensionname": "BulkBlock",
 	"bulkblock-desc": "Allows blocking of users by providing a list in a Special page textarea",
-	"bulkblock-intro": "This page allows you to block multiple users at once. Enter the usernames of existing users in the box below, one per line, and a reason and a block duration. Users will be blocked indefinitely.",
+	"bulkblock-intro": "This page allows you to block multiple users at once. Enter the usernames of existing users in the box below, one per line, and a reason and a block duration.",
 	"bulkblock-usernames": "Usernames:",
 	"bulkblock-reason": "Reason:",
 	"bulkblock-submit": "Block",
@@ -13,7 +22,7 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1|user|users}} could not be blocked.",
 	"bulkblock-log-failed": "Failed to insert log record for '$1' user",
 	"bulkblock-errors": "The following {{PLURAL:$1|error|errors}} occurred:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Back to Bulk Block]]",
+	"bulkblock-linkback": "Return to [[Special:BulkBlock]].",
 	"bulkblock-expiry": "Expiry:",
 	"action-bulkblock": "block users in bulk",
 	"right-bulkblock": "Block users in bulk"
