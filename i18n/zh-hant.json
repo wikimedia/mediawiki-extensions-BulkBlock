@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anterdc99",
 			"Kly",
 			"Winston Sung"
 		]
@@ -18,8 +19,8 @@
 	"bulkblock-failed": "無法封鎖 $1 位{{PLURAL:$1|使用者}}。",
 	"bulkblock-log-failed": "插入使用者「$1」使用者的日誌紀錄失敗",
 	"bulkblock-errors": "發生以下{{PLURAL:$1|錯誤}}：",
-	"bulkblock-linkback": "[[:Special:BulkBlock|返回批量封鎖]]",
+	"bulkblock-linkback": "[[:Special:BulkBlock|返回批次封鎖]]",
 	"bulkblock-expiry": "期限：",
-	"action-bulkblock": "批量封鎖使用者",
-	"right-bulkblock": "批量封鎖使用者"
+	"action-bulkblock": "批次封鎖使用者",
+	"right-bulkblock": "批次封鎖使用者"
 }

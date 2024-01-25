@@ -14,7 +14,7 @@
 	"bulkblock-already-blocked": "L'utente '$1' è già bloccato.",
 	"bulkblock-failed": "$1 {{PLURAL:$1|utente non può essere bloccato|utenti non possono essere bloccati}}.",
 	"bulkblock-errors": "{{PLURAL:$1|Si è verificato il seguente errore|Si sono verificati i seguenti errori}}:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Torna al blocco collettivo]]",
+	"bulkblock-linkback": "Torna al [[Special:BulkBlock|blocco collettivo]].",
 	"bulkblock-expiry": "Scadenza:",
 	"action-bulkblock": "bloccare collettivamente gli utenti",
 	"right-bulkblock": "Blocca collettivamente gli utenti"
