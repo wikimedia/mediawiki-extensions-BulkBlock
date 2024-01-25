@@ -22,7 +22,6 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1|user|users}} could not be blocked.",
 	"bulkblock-log-failed": "Failed to insert log record for '$1' user",
 	"bulkblock-errors": "The following {{PLURAL:$1|error|errors}} occurred:",
-	"bulkblock-linkback": "Return to [[Special:BulkBlock]].",
 	"bulkblock-expiry": "Expiry:",
 	"action-bulkblock": "block users in bulk",
 	"right-bulkblock": "Block users in bulk"

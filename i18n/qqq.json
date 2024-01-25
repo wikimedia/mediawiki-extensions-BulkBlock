@@ -20,7 +20,6 @@
 	"bulkblock-failed": "Error message telling the user block failed",
 	"bulkblock-log-failed": "Error message telling log recording failed",
 	"bulkblock-errors": "Intro message for displaying errors",
-	"bulkblock-linkback": "Text for link back to Special page",
 	"bulkblock-expiry": "Expiry label",
 	"action-bulkblock": "{{doc-action|bulkblock}}",
 	"right-bulkblock": "{{doc-right|bulkblock}}"
