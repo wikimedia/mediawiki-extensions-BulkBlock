@@ -7,6 +7,5 @@
 	"bulkblock-usernames": "Корисничка имена:",
 	"bulkblock-reason": "Разлог:",
 	"bulkblock-submit": "Блокирај",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Назад на масовно блокирање]]",
 	"bulkblock-expiry": "Истиче:"
 }

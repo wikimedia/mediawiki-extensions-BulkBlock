@@ -18,7 +18,6 @@
 	"bulkblock-failed": "$1 usator{{PLURAL:$1||es}} non poteva esser blocate.",
 	"bulkblock-log-failed": "Non poteva inserer le entrata de registro pro le usator '$1'",
 	"bulkblock-errors": "Le sequente error{{PLURAL:$1||es}} ha occurrite:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Retornar al blocage in massa]]",
 	"bulkblock-expiry": "Expiration:",
 	"action-bulkblock": "blocar usatores in massa",
 	"right-bulkblock": "Blocar usatores in massa"

@@ -20,7 +20,6 @@
 	"bulkblock-failed": "' $1 ' {{PLURAL:$1| user|users}} δεν μπόρεσε να αποκλειστεί.",
 	"bulkblock-log-failed": "Αποτυχία εισαγωγής εγγραφής καταγραφής για χρήστη '$1'",
 	"bulkblock-errors": "Συνέβησαν τα παρακάτω {{PLURAL:$1|σφάλμα|σφάλματα}}:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Επιστροφή στον μαζικό αποκλεισμό]]",
 	"bulkblock-expiry": "Λήξη:",
 	"action-bulkblock": "αποκλεισμός χρηστών μαζικά",
 	"right-bulkblock": "Μαζικός αποκλεισμός χρηστών"

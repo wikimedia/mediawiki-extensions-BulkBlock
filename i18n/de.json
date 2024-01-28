@@ -6,7 +6,7 @@
 	},
 	"bulkblock": "Massensperrung",
 	"bulkblock-desc": "Ermöglicht das Sperren von Benutzern durch Bereitstellung einer Liste in einem Textbereich auf einer Spezialseite",
-	"bulkblock-intro": "Auf dieser Seite kannst du mehrere Benutzer gleichzeitig sperren. Gib die Benutzernamen bestehender Benutzer in das Feld unten ein, einen pro Zeile, sowie einen Grund und eine Sperrdauer. Benutzer werden auf unbestimmte Zeit gesperrt.",
+	"bulkblock-intro": "Auf dieser Seite kannst du mehrere Benutzer gleichzeitig sperren. Gib die Benutzernamen bestehender Benutzer in das Feld unten ein, einen pro Zeile, sowie einen Grund und eine Sperrdauer.",
 	"bulkblock-usernames": "Benutzernamen:",
 	"bulkblock-reason": "Grund:",
 	"bulkblock-submit": "Sperren",
@@ -18,7 +18,6 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1|Benutzer konnte|Benutzer konnten}} nicht gesperrt werden.",
 	"bulkblock-log-failed": "Protokolleintrag für Benutzer „$1“ konnte nicht eingefügt werden",
 	"bulkblock-errors": "{{PLURAL:$1|Der folgende Fehler ist|Die folgenden Fehler sind}} aufgetreten:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Zurück zur Massensperrung]]",
 	"bulkblock-expiry": "Ablaufdatum:",
 	"action-bulkblock": "Benutzer in großem Umfang zu sperren",
 	"right-bulkblock": "Massensperrung von Benutzern"

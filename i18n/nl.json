@@ -17,7 +17,6 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1|gebruiker kon|gebruikers konden}} niet worden geblokkeerd.",
 	"bulkblock-log-failed": "Kan logboekregel voor gebruiker '$1' niet invoegen",
 	"bulkblock-errors": "De volgende {{PLURAL:$1|fout is|fouten zijn}} opgetreden:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Terug naar Bulk Block]]",
 	"bulkblock-expiry": "Verloopt:",
 	"action-bulkblock": "gebruikers massaal te blokkeren",
 	"right-bulkblock": "Gebruikers massaal blokkeren"

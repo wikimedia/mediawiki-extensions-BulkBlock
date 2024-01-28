@@ -1,12 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Daniel236",
 			"Verdy p"
 		]
 	},
 	"bulkblock": "Bloquer en masse",
 	"bulkblock-desc": "Permet de bloquer des utilisateurs en fournissant une liste dans une champ de texte d’une page spéciale",
-	"bulkblock-intro": "Cette page vous permet de bloquer plusieurs utilisateurs à la fois. Saisissez les noms d’utilisateur des utilisateurs existants dans la case ci-dessous, un par ligne, ainsi qu’un motif et une durée de blocage. Ces utilisateurs seront bloqués indéfiniment.",
+	"bulkblock-intro": "Cette page vous permet de bloquer plusieurs utilisateurs à la fois. Saisissez les noms d'utilisateur des utilisateurs existants dans la case ci-dessous, un par ligne, ainsi qu'un motif et une durée de blocage.",
 	"bulkblock-usernames": "Noms d’utilisateur :",
 	"bulkblock-reason": "Motif :",
 	"bulkblock-submit": "Bloquer",
@@ -18,7 +19,6 @@
 	"bulkblock-failed": "$1 utilisateur{{PLURAL:$1||s}} n’{{PLURAL:$1|a|ont}} pas pu être bloqué{{PLURAL:$1||s}}.",
 	"bulkblock-log-failed": "Échec d’insertion de l’enregistrement de journal pour l’utilisateur ou l’utilisatrice « $1 »",
 	"bulkblock-errors": "L{{PLURAL:$1|’e|es e}}rreur suivante{{PLURAL:$1||s}} s{{PLURAL:$1|e son|’es}}t produite{{PLURAL:$1||s}} :",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Retour au blocage en masse]]",
 	"bulkblock-expiry": "Expiration :",
 	"action-bulkblock": "bloquer des utilisateurs en masse",
 	"right-bulkblock": "Bloquer des utilisateurs en masse"
