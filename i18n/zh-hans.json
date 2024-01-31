@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Anterdc99"
+		]
+	},
+	"bulkblock": "批量封禁用户",
+	"bulkblock-desc": "允许通过在特殊页面文本区域中提供列表来封禁用户",
+	"bulkblock-intro": "此页面允许您一次封禁多个用户。在下方的文本框中输入现有用户的用户名（每行一名），以及原因和封禁时长。",
+	"bulkblock-usernames": "用户名：",
+	"bulkblock-reason": "原因：",
+	"bulkblock-submit": "封禁",
+	"bulkblock-no-usernames": "未提供有效的用户名。",
+	"bulkblock-success": "已封禁$1名{{PLURAL:$1|用户}}。",
+	"bulkblock-invalid-username": "“$1”不是有效的用户名。",
+	"bulkblock-non-existing-username": "用户“$1”不存在。",
+	"bulkblock-already-blocked": "用户“$1”已被封禁。",
+	"bulkblock-failed": "无法封禁$1名{{PLURAL:$1|用户}}。",
+	"bulkblock-log-failed": "无法插入“$1”用户的日志记录",
+	"bulkblock-errors": "发生以下{{PLURAL:$1|错误}}：",
+	"bulkblock-expiry": "结束时间：",
+	"action-bulkblock": "批量封禁用户",
+	"right-bulkblock": "批量封禁用户"
+}
