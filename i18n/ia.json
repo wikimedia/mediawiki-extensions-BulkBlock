@@ -4,9 +4,9 @@
 			"McDutchie"
 		]
 	},
-	"bulkblock": "Blocar in massa",
+	"bulkblock": "Blocar usatores in massa",
 	"bulkblock-desc": "Permitte blocar usatores forniente un lista in un area de texto sur un pagina special",
-	"bulkblock-intro": "Iste pagina te permitte blocar plure usatores al vice. Entra le nomines de usator de usatores existente in le quadro hic infra, un per linea, e un motivo e un durata de blocage. Le usatores essera blocate indefinitemente.",
+	"bulkblock-intro": "Iste pagina te permitte blocar plure usatores al vice. Entra le nomines de usator de usatores existente in le quadro hic infra, un per linea, e un motivo e un durata de blocage.",
 	"bulkblock-usernames": "Nomines de usator:",
 	"bulkblock-reason": "Motivo:",
 	"bulkblock-submit": "Blocar",
