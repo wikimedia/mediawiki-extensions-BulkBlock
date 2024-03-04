@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
+			"HanV",
 			"McDutchie"
 		]
 	},
 	"bulkblock-desc": "Staat het blokkeren van gebruikers toe door een lijst op te geven in een tekstgebied van een speciale pagina",
-	"bulkblock-intro": "Op deze pagina kunt u meerdere gebruikers tegelijk blokkeren. Voer de gebruikersnamen van bestaande gebruikers in het onderstaande vak in, één per regel, alsmede een reden en een blokkeringsduur. Gebruikers worden voor onbepaalde tijd geblokkeerd.",
+	"bulkblock-intro": "Op deze pagina kunt u meerdere gebruikers tegelijk blokkeren. Voer de gebruikersnamen van bestaande gebruikers in het onderstaande vak in, één per regel, alsmede een reden en een blokkeringsduur.",
 	"bulkblock-usernames": "Gebruikersnamen:",
 	"bulkblock-reason": "Reden:",
 	"bulkblock-submit": "Blokkeren",
