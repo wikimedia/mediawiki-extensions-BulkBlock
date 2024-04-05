@@ -1,11 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Brettchenweber"
+			"Brettchenweber",
+			"TomatoCake"
 		]
 	},
-	"bulkblock": "Massensperrung",
-	"bulkblock-desc": "Ermöglicht das Sperren von Benutzern durch Bereitstellung einer Liste in einem Textbereich auf einer Spezialseite",
+	"bulkblock": "Massensperrung von Benutzern",
+	"bulkblock-desc": "Ermöglicht das Sperren von Benutzern, indem eine Liste auf einer Spezialseite angegeben wird",
 	"bulkblock-intro": "Auf dieser Seite kannst du mehrere Benutzer gleichzeitig sperren. Gib die Benutzernamen bestehender Benutzer in das Feld unten ein, einen pro Zeile, sowie einen Grund und eine Sperrdauer.",
 	"bulkblock-usernames": "Benutzernamen:",
 	"bulkblock-reason": "Grund:",
@@ -13,7 +14,7 @@
 	"bulkblock-no-usernames": "Es wurden keine gültigen Benutzernamen angegeben.",
 	"bulkblock-success": "$1 {{PLURAL:$1|Benutzer wurde|Benutzer wurden}} gesperrt.",
 	"bulkblock-invalid-username": "„$1“ ist kein gültiger Benutzername.",
-	"bulkblock-non-existing-username": "Benutzer „$1“ existiert nicht.",
+	"bulkblock-non-existing-username": "„$1“ existiert nicht.",
 	"bulkblock-already-blocked": "„$1“ ist bereits gesperrt.",
 	"bulkblock-failed": "$1 {{PLURAL:$1|Benutzer konnte|Benutzer konnten}} nicht gesperrt werden.",
 	"bulkblock-log-failed": "Protokolleintrag für Benutzer „$1“ konnte nicht eingefügt werden",
