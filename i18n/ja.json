@@ -1,11 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"MathXplore"
+			"MathXplore",
+			"Waki285"
 		]
 	},
+	"bulkblock-desc": "特別ページのテキストボックスに利用者名をリストすることで、利用者をブロックできるようにする",
+	"bulkblock-intro": "このページでは、一度に複数の利用者をブロックすることができます。下のボックスに既存の利用者の利用者名を1行に1つずつ入力し、理由とブロック期間を入力してください。",
 	"bulkblock-usernames": "利用者名:",
 	"bulkblock-reason": "理由:",
 	"bulkblock-submit": "ブロック",
-	"bulkblock-invalid-username": "\"$1\" は有効な利用者名ではありません。"
+	"bulkblock-no-usernames": "有効なユーザー名が入力されませんでした。",
+	"bulkblock-success": "$1 {{PLURAL:$1|利用者が}}ブロックされました。",
+	"bulkblock-invalid-username": "\"$1\" は有効な利用者名ではありません。",
+	"bulkblock-non-existing-username": "利用者 「$1」 は存在しません。",
+	"bulkblock-already-blocked": "利用者「$1」はすでにブロックされています。",
+	"bulkblock-failed": "$1 {{PLURAL:$1|利用者}}をブロックできませんでした。",
+	"bulkblock-log-failed": "利用者「$1」の記録レコードを挿入できませんでした",
+	"bulkblock-errors": "{{PLURAL:$1|エラー}}が発生しました。",
+	"bulkblock-expiry": "期限:",
+	"action-bulkblock": "利用者を一括ブロック",
+	"right-bulkblock": "利用者を一括ブロック"
 }
