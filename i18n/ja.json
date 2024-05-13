@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"MathXplore",
+			"Shirayuki",
 			"Waki285"
 		]
 	},
@@ -19,6 +20,6 @@
 	"bulkblock-log-failed": "利用者「$1」の記録レコードを挿入できませんでした",
 	"bulkblock-errors": "{{PLURAL:$1|エラー}}が発生しました。",
 	"bulkblock-expiry": "期限:",
-	"action-bulkblock": "利用者を一括ブロック",
+	"action-bulkblock": "利用者の一括ブロック",
 	"right-bulkblock": "利用者を一括ブロック"
 }
