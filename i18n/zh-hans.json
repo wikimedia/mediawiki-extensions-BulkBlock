@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anterdc99"
+			"Anterdc99",
+			"LittlePaw365"
 		]
 	},
 	"bulkblock": "批量封禁用户",
@@ -18,7 +19,7 @@
 	"bulkblock-failed": "无法封禁$1名{{PLURAL:$1|用户}}。",
 	"bulkblock-log-failed": "无法插入“$1”用户的日志记录",
 	"bulkblock-errors": "发生以下{{PLURAL:$1|错误}}：",
-	"bulkblock-expiry": "结束时间：",
+	"bulkblock-expiry": "期限：",
 	"action-bulkblock": "批量封禁用户",
 	"right-bulkblock": "批量封禁用户"
 }
