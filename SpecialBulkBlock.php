@@ -87,7 +87,7 @@ class SpecialBulkBlock extends FormSpecialPage {
 	 * @param HTMLForm $form
 	 */
 	protected function alterForm( HTMLForm $form ) {
-		$form->setIntro( $this->msg( 'bulkblock-intro' )->parse() );
+		$form->setPreHtml( $this->msg( 'bulkblock-intro' )->parse() );
 		$form->setId( 'bulkblock' );
 		$form->setSubmitTextMsg( 'bulkblock-submit' );
 		$form->setSubmitDestructive();
