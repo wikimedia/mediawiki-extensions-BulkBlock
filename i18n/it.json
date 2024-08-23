@@ -1,18 +1,23 @@
 {
 	"@metadata": {
 		"authors": [
-			"Beta16"
+			"Beta16",
+			"OrbiliusMagister"
 		]
 	},
 	"bulkblock": "Blocco collettivo degli utenti",
+	"bulkblock-desc": "Consente il blocco degli utenti fornendo un elenco in un'area di testo della pagina speciale",
+	"bulkblock-intro": "Questa pagina ti consente di bloccare più utenti contemporaneamente. Inserisci i nomi utente degli utenti esistenti nella casella sottostante, uno per riga, poi un motivo e una durata del blocco.",
 	"bulkblock-usernames": "Nomi utente:",
 	"bulkblock-reason": "Motivo:",
 	"bulkblock-submit": "Blocca",
+	"bulkblock-no-usernames": "Non sono stati forniti nomi utente validi.",
 	"bulkblock-success": "$1 {{PLURAL:$1|utente era bloccato|utenti erano bloccati}}.",
 	"bulkblock-invalid-username": "'$1' non è un nome utente valido.",
 	"bulkblock-non-existing-username": "L'utente '$1' non esiste.",
 	"bulkblock-already-blocked": "L'utente '$1' è già bloccato.",
 	"bulkblock-failed": "$1 {{PLURAL:$1|utente non può essere bloccato|utenti non possono essere bloccati}}.",
+	"bulkblock-log-failed": "Non è stato possibile inserire il registro dell'utente '$1'",
 	"bulkblock-errors": "{{PLURAL:$1|Si è verificato il seguente errore|Si sono verificati i seguenti errori}}:",
 	"bulkblock-expiry": "Scadenza:",
 	"action-bulkblock": "bloccare collettivamente gli utenti",
