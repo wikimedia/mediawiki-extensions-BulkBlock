@@ -310,7 +310,7 @@ class SpecialBulkBlock extends FormSpecialPage {
 			}
 
 			// Check if the user is already blocked.
-			$blocked = Block::newFromTarget( $targetUser );
+			$blocked = DatabaseBlock::newFromTarget( $targetUser );
 			if ( $blocked ) {
 				$errors[] = $this->msg( 'bulkblock-already-blocked', $username )->escaped();
 			}
