@@ -1,5 +1,6 @@
 <?php
 
+use MediaWiki\Block\BlockUser;
 use MediaWiki\Block\DatabaseBlock;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\User\UserFactory;
@@ -210,7 +211,7 @@ class SpecialBulkBlock extends FormSpecialPage {
 		$block->setTarget( $targetUser );
 		$block->setBlocker( $this->getUser() );
 		$block->setReason( $reason );
-		$block->setExpiry( SpecialBlock::parseExpiryInput( $expiry ) );
+		$block->setExpiry( BlockUser::parseExpiryInput( $expiry ) );
 
 		// Save the block to the database.
 		try {
