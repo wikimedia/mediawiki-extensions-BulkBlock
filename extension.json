@@ -11,7 +11,7 @@
 		"SpecialBulkBlock": "SpecialBulkBlock.php"
 	},
 	"requires": {
-		"MediaWiki": ">= 1.38.0"
+		"MediaWiki": ">= 1.42.0"
 	},
 	"MessagesDirs": {
 		"BulkBlock": "i18n"
@@ -23,6 +23,7 @@
 		"BulkBlock": {
 			"class": "SpecialBulkBlock",
 			"services": [
+				"ContentLanguage",
 				"UserFactory",
 				"UserNameUtils"
 			]

@@ -11,17 +11,17 @@ use MediaWiki\User\UserNameUtils;
  */
 class SpecialBulkBlock extends FormSpecialPage {
 
-	/** @var UserFactory */
-	private $userFactory;
+	private Language $language;
+	private UserFactory $userFactory;
+	private UserNameUtils $userNameUtils;
 
-	/** @var UserNameUtils */
-	private $userNameUtils;
-
-	/**
-	 * Constructor.
-	 */
-	public function __construct( UserFactory $userFactory, UserNameUtils $userNameUtils ) {
+	public function __construct(
+		Language $language,
+		UserFactory $userFactory,
+		UserNameUtils $userNameUtils
+	) {
 		parent::__construct( 'BulkBlock', 'bulkblock' );
+		$this->language = $language;
 		$this->userFactory = $userFactory;
 		$this->userNameUtils = $userNameUtils;
 	}
@@ -75,7 +75,7 @@ class SpecialBulkBlock extends FormSpecialPage {
 				'type' => 'select',
 				'label-message' => 'bulkblock-expiry',
 				'required' => true,
-				'options' => SpecialBlock::getSuggestedDurations( null, false ),
+				'options' => $this->language->getBlockDurations( false ),
 				'default' => 'infinite'
 			],
 		];
