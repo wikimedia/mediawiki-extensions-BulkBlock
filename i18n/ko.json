@@ -4,6 +4,8 @@
 			"Ykhwong"
 		]
 	},
+	"bulkblock-desc": "특수 문서 텍스트 영역에 목록을 제공하여 사용자 차단을 허용합니다",
+	"bulkblock-intro": "이 문서에서는 여러 사용자를 한 번에 차단할 수 있습니다. 아래 상자에 기존 사용자의 사용자 이름을 한 줄에 하나씩 입력하고, 이유와 차단 기간을 입력하세요.",
 	"bulkblock-usernames": "사용자 이름:",
 	"bulkblock-reason": "이유:",
 	"bulkblock-submit": "차단",
@@ -13,8 +15,9 @@
 	"bulkblock-non-existing-username": "'$1' 사용자는 존재하지 않습니다.",
 	"bulkblock-already-blocked": "'$1' 사용자는 이미 차단되었습니다.",
 	"bulkblock-failed": "{{PLURAL:$1|사용자}} $1명을 차단하지 못했습니다.",
+	"bulkblock-log-failed": "'$1' 사용자에 대한 로그 레코드를 삽입하지 못했습니다.",
 	"bulkblock-errors": "다음 {{PLURAL:$1|오류}}가 발생했습니다:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|대량 차단으로 돌아가기]]",
+	"bulkblock-expiry": "기한:",
 	"action-bulkblock": "대량으로 사용자를 차단할",
 	"right-bulkblock": "대량으로 사용자 차단"
 }
