@@ -17,7 +17,6 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1| user | users}} لا يمكن حظره.",
 	"bulkblock-log-failed": "فشل في إدراج سجل سجل للمستخدم '$1'",
 	"bulkblock-errors": "ما يلي {{PLURAL:$1|error|errors}} حدث:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Back to Bulk Block]]",
 	"bulkblock-expiry": "انتهاء:",
 	"action-bulkblock": "حظر المستخدمين بشكل جماعي",
 	"right-bulkblock": "حظر المستخدمين بشكل جماعي"

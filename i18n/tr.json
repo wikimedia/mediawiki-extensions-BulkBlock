@@ -18,7 +18,6 @@
 	"bulkblock-failed": "$1 {{PLURAL:$1|kullanıcı}} engellenemedi",
 	"bulkblock-log-failed": "'$1' kullanıcısı için günlük kaydı eklenemedi",
 	"bulkblock-errors": "Aşağıdaki {{PLURAL:$1|hata|hatalar}} oluştu:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Toplu Engellemeye Geri Git]]",
 	"bulkblock-expiry": "Bitiş:",
 	"action-bulkblock": "kullanıcıları toplu olarak engelle",
 	"right-bulkblock": "Kullanıcıları toplu olarak engelle"

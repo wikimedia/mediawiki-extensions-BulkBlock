@@ -19,7 +19,6 @@
 	"bulkblock-failed": "$1 användare kunde inte blockeras.",
 	"bulkblock-log-failed": "Det gick inte att infoga loggpost för användare \"$1\"",
 	"bulkblock-errors": "Följande {{PLURAL:$1|fel}} inträffade:",
-	"bulkblock-linkback": "[[:Special:BulkBlock|Tillbaka till massblockering]]",
 	"bulkblock-expiry": "Förfaller:",
 	"action-bulkblock": "massblockera användare",
 	"right-bulkblock": "Massblockera användare"
