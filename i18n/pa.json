@@ -5,5 +5,11 @@
 		]
 	},
 	"bulkblock": "ਵਰਤੋਂਕਾਰਾਂ ਨੂੰ ਥੋਕ ਵਿੱਚ ਰੋਕ ਲਾਓ",
-	"bulkblock-submit": "ਪਾਬੰਦੀ ਲਾਓ"
+	"bulkblock-extensionname": "ਥੋਕ ਵਿੱਚ ਰੋਕ ਲਾਓ",
+	"bulkblock-usernames": "ਵਰਤੋਂਕਾਰ-ਨਾਂ:",
+	"bulkblock-reason": "ਕਾਰਨ:",
+	"bulkblock-submit": "ਪਾਬੰਦੀ ਲਾਓ",
+	"bulkblock-expiry": "ਮਿਆਦ ਪੁੱਗਣੀ",
+	"action-bulkblock": "ਵਰਤੋਂਕਾਰਾਂ ਤੇ ਥੋਕ ਵਿੱਚ ਰੋਕ ਲਾਓ",
+	"right-bulkblock": "ਵਰਤੋਂਕਾਰਾਂ ਤੇ ਥੋਕ ਵਿੱਚ ਰੋਕ ਲਾਓ"
 }
