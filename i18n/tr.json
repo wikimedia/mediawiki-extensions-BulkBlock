@@ -2,13 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Asma",
-			"Hedda"
+			"Hedda",
+			"Joseph"
 		]
 	},
 	"bulkblock-desc": "Özel sayfa metin alanında bir liste getirerek kullanıcıların engellenmesine izin verir",
 	"bulkblock-intro": "Bu sayfa aynı anda birden fazla kullanıcıyı engellemenize olanak tanır. Mevcut kullanıcıların kullanıcı adlarını aşağıdaki kutuya, her satıra bir tane olacak şekilde nedenini ve engelleme süresini girin. Kullanıcılar, süresiz olarak engellenecektir.",
 	"bulkblock-usernames": "Kullanıcı adları:",
-	"bulkblock-reason": "Sebep:",
+	"bulkblock-reason": "Gerekçe:",
 	"bulkblock-submit": "Engelle",
 	"bulkblock-no-usernames": "Geçerli kullanıcı adları bulunmadı.",
 	"bulkblock-success": "$1 {{PLURAL:$1|kullanıcı}} engellendi.",
