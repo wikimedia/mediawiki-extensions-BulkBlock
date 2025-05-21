@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bulkblock-usernames": "Korisnička imena:",
+	"bulkblock-reason": "Razlog:",
+	"bulkblock-submit": "Blokiraj",
+	"bulkblock-expiry": "Ističe:"
+}
