@@ -13,6 +13,11 @@ $specialPageAliases['en'] = [
 	'BulkBlock' => [ 'BulkBlock' ]
 ];
 
+/** Chinese (中文) */
+$specialPageAliases['zh'] = [
+	'BulkBlock' => [ 'BulkBlock' ]
+];
+
 /** Simplified Chinese (中文（简体）) */
 $specialPageAliases['zh-hans'] = [
 	'BulkBlock' => [ '批量封禁' ]
