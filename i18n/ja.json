@@ -16,7 +16,7 @@
 	"bulkblock-success": "$1 {{PLURAL:$1|利用者が}}ブロックされました。",
 	"bulkblock-invalid-username": "「$1」は有効な利用者名ではありません。",
 	"bulkblock-non-existing-username": "利用者「$1」は存在しません。",
-	"bulkblock-already-blocked": "利用者「$1」は既にブロックされています。",
+	"bulkblock-already-blocked": "利用者「$1」はすでにブロックされています。",
 	"bulkblock-failed": "$1 {{PLURAL:$1|利用者}}をブロックできませんでした。",
 	"bulkblock-log-failed": "利用者「$1」の記録レコードを挿入できませんでした",
 	"bulkblock-errors": "{{PLURAL:$1|エラー}}が発生しました。",
