@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Asma",
-			"Meno25"
+			"Meno25",
+			"Mohammed Qays"
 		]
 	},
 	"bulkblock-desc": "يسمح بحظر المستخدمين من خلال توفير قائمة في منطقة نصية خاصة بصفحة",
@@ -19,6 +20,6 @@
 	"bulkblock-log-failed": "فشل في إدراج سجل سجل للمستخدم '$1'",
 	"bulkblock-errors": "{{PLURAL:$1|الخطأ التالي حدث|الأخطاء التالية حدثت}}:",
 	"bulkblock-expiry": "انتهاء:",
-	"action-bulkblock": "حظر المستخدمين بشكل جماعي",
-	"right-bulkblock": "حظر المستخدمين بشكل جماعي"
+	"action-bulkblock": "منع المستخدمين جماعيًا",
+	"right-bulkblock": "منع المستخدمين جماعيًا"
 }
