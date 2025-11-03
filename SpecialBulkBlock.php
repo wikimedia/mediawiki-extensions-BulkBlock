@@ -2,6 +2,7 @@
 
 use MediaWiki\Block\BlockUser;
 use MediaWiki\Block\DatabaseBlock;
+use MediaWiki\Html\Html;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\User\UserFactory;
 use MediaWiki\User\UserNameUtils;
