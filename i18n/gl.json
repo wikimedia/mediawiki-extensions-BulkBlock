@@ -1,0 +1,24 @@
+{
+	"@metadata": {
+		"authors": [
+			"Toliño"
+		]
+	},
+	"bulkblock": "Bloquear usuarios en masa",
+	"bulkblock-desc": "Permite o bloqueo de usuarios proporcionando unha lista na área de texto dunha páxina especial",
+	"bulkblock-intro": "Esta páxina permíteche bloquear varios usuarios á vez. Introduce os nomes de usuario no cadro inferior, un por liña, e un motivo e unha duración para o bloqueo.",
+	"bulkblock-usernames": "Nomes de usuario:",
+	"bulkblock-reason": "Motivo:",
+	"bulkblock-submit": "Bloquear",
+	"bulkblock-no-usernames": "Non se proporcionaron nomes de usuario válidos.",
+	"bulkblock-success": "{{PLURAL:$1|Bloqueouse $1 usuario|Bloqueáronse $1 usuarios}}.",
+	"bulkblock-invalid-username": "«$1» non é un nome de usuario válido.",
+	"bulkblock-non-existing-username": "O usuario «$1» non existe.",
+	"bulkblock-already-blocked": "O usuario «$1» xa está bloqueado.",
+	"bulkblock-failed": "Non se {{PLURAL:$1|puido|puideron}} bloquear $1 {{PLURAL:$1|usuario|usuarios}}.",
+	"bulkblock-log-failed": "Non se puido inserir o rexistro do usuario «$1»",
+	"bulkblock-errors": "{{PLURAL:$1|Produciuse o seguinte erro|Producíronse os seguintes erros}}:",
+	"bulkblock-expiry": "Caducidade:",
+	"action-bulkblock": "bloquear usuarios en masa",
+	"right-bulkblock": "Bloquear usuarios en masa"
+}
