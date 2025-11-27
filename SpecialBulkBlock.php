@@ -3,6 +3,7 @@
 use MediaWiki\Block\BlockUser;
 use MediaWiki\Block\DatabaseBlock;
 use MediaWiki\Html\Html;
+use MediaWiki\MediaWikiServices;
 use MediaWiki\SpecialPage\SpecialPage;
 use MediaWiki\User\UserFactory;
 use MediaWiki\User\UserNameUtils;
@@ -216,7 +217,8 @@ class SpecialBulkBlock extends FormSpecialPage {
 
 		// Save the block to the database.
 		try {
-			$blockResult = $block->insert();
+			$blockResult = MediaWikiServices::getInstance()->getDatabaseBlockStoreFactory()
+				->getDatabaseBlockStore()->insertBlock( $block );
 		} catch ( MWException $e ) {
 			return $this->msg( 'bulkblock-failed', $targetUser->getName() )->escaped();
 		}
