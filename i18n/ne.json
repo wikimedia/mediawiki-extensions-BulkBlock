@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"बडा काजी"
+		]
+	},
+	"bulkblock-usernames": "प्रयोगकर्ता नाम:",
+	"bulkblock-reason": "कारण:",
+	"bulkblock-submit": "निषेध गर्नुहोस्",
+	"bulkblock-no-usernames": "कुनै पनि मान्य प्रयोगकर्ता नाम प्रदान गरिएको थिएन।"
+}
