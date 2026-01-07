@@ -2,12 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"Bengtsson96",
-			"Sabelöga"
+			"Sabelöga",
+			"Stefan2255"
 		]
 	},
 	"bulkblock": "Massblockera användare",
 	"bulkblock-desc": "Tillåter blockering av användare genom att tillhandahålla en lista i ett textområde för specialsidor",
-	"bulkblock-intro": "Denna sida låter dig blockera flera användare på en gång. Ange användarnamnen av existerande användare i rutan nedanför, en per rad, och en anledning och blockeringstid. Användare kommer blockeras på obestämd tid.",
+	"bulkblock-intro": "Denna sida låter dig blockera flera användare på en gång. Ange användarnamnen av existerande användare i rutan nedanför, en per rad, och en anledning och blockeringstid.",
 	"bulkblock-usernames": "Användarnamn:",
 	"bulkblock-reason": "Anledning:",
 	"bulkblock-submit": "Blockera",
@@ -16,7 +17,7 @@
 	"bulkblock-invalid-username": "\"$1\" är inget giltigt användarnamn.",
 	"bulkblock-non-existing-username": "Användare \"$1\" finns inte.",
 	"bulkblock-already-blocked": "Användaren \"$1\" är redan blockerad.",
-	"bulkblock-failed": "$1 användare kunde inte blockeras.",
+	"bulkblock-failed": "$1 {{PLURAL:$1|användare}} kunde inte blockeras.",
 	"bulkblock-log-failed": "Det gick inte att infoga loggpost för användare \"$1\"",
 	"bulkblock-errors": "Följande {{PLURAL:$1|fel}} inträffade:",
 	"bulkblock-expiry": "Förfaller:",
