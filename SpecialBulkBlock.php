@@ -22,10 +22,15 @@ class SpecialBulkBlock extends FormSpecialPage {
 		UserFactory $userFactory,
 		UserNameUtils $userNameUtils
 	) {
-		parent::__construct( 'BulkBlock', 'bulkblock' );
+		parent::__construct( 'BulkBlock' );
 		$this->language = $language;
 		$this->userFactory = $userFactory;
 		$this->userNameUtils = $userNameUtils;
+	}
+
+	/** @inheritDoc */
+	public function getRestriction(): string {
+		return 'bulkblock';
 	}
 
 	/**
