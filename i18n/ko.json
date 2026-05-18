@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tensama0415",
 			"Ykhwong"
 		]
 	},
@@ -18,6 +19,6 @@
 	"bulkblock-log-failed": "'$1' 사용자에 대한 로그 레코드를 삽입하지 못했습니다.",
 	"bulkblock-errors": "다음 {{PLURAL:$1|오류}}가 발생했습니다:",
 	"bulkblock-expiry": "기한:",
-	"action-bulkblock": "대량으로 사용자를 차단할",
+	"action-bulkblock": "대량으로 사용자 차단",
 	"right-bulkblock": "대량으로 사용자 차단"
 }
