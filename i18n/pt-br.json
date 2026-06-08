@@ -1,8 +1,13 @@
 {
 	"@metadata": {
 		"authors": [
+			"Eduardoaddad",
 			"VasbXBR"
 		]
 	},
-	"bulkblock-reason": "Motivo:"
+	"bulkblock-desc": "Permite bloquear usuários por meio de uma lista inserida na área de texto de uma página especial",
+	"bulkblock-usernames": "Nome de usuário:",
+	"bulkblock-reason": "Motivo:",
+	"bulkblock-submit": "Bloquear",
+	"bulkblock-expiry": "Expiração:"
 }
