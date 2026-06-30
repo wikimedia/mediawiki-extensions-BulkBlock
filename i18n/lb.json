@@ -4,11 +4,20 @@
 			"Volvox"
 		]
 	},
+	"bulkblock-desc": "Erméiglecht d'Späre vu Benotzer, andeems een eng Lëscht am Textfeld vun enger Spezialsäit ugëtt",
+	"bulkblock-intro": "Dës Säit gëtt Iech d'Méiglechkeet, méi Benotzer beieneen ze spären. Gitt d'Benotzernimm vu besteeënde Benotzer an der Këscht ënnen an, ee pro Zeil, zesumme mat engem Grond an enger Dauer fir d'Spär.",
 	"bulkblock-usernames": "Benotzernimm:",
 	"bulkblock-reason": "Grond:",
-	"bulkblock-success": "$1 {{PLURAL:$1|Benotzer|Benotzer}} {{PLURAL:$1| gouf|goufen}} erfollegräich blockéiert.",
-	"bulkblock-invalid-username": "'$1' ass kee valabele Benotzernumm.",
+	"bulkblock-submit": "Spären",
+	"bulkblock-no-usernames": "Et goufe keng gülteg Benotzernimm uginn.",
+	"bulkblock-success": "$1 {{PLURAL:$1|Benotzer gouf|Benotzer goufe}} gespaart.",
+	"bulkblock-invalid-username": "„$1“ ass kee gültege Benotzernumm.",
 	"bulkblock-non-existing-username": "De Benotzer „$1“ gëtt et net.",
 	"bulkblock-already-blocked": "De Benotzer „$1“ ass scho gespaart.",
-	"bulkblock-errors": "{{PLURAL:$1|De follgende Feeler ass|Déi follgend Feeler sinn}} geschitt:"
+	"bulkblock-failed": "$1 {{PLURAL:$1|Benotzer}} konnt net gespaart ginn.",
+	"bulkblock-log-failed": "Et konnt fir de Benotzer „$1“ keen Antrag an d'Logbuch gemaach ginn.",
+	"bulkblock-errors": "{{PLURAL:$1|De follgende Feeler ass|Déi follgend Feeler si}} geschitt:",
+	"bulkblock-expiry": "Oflafdatum:",
+	"action-bulkblock": "Benotzer a grousser Zuel ze spären",
+	"right-bulkblock": "Benotzer a grousser Zuel spären"
 }
