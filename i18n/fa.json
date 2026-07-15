@@ -1,0 +1,23 @@
+{
+	"@metadata": {
+		"authors": [
+			"Jeeputer"
+		]
+	},
+	"bulkblock-desc": "امکان قطع دسترسی کاربران را با ارائهٔ فهرستی در فضای متنی یک صفحهٔ ویژه، فراهم می‌کند",
+	"bulkblock-intro": "این صفحه امکان قطع دسترسی یک‌بارهٔ چندین کاربر را به شما می‌دهد. نام کاربرهای موجود را، در جعبهٔ زیر، هر کدام در یک سطر، و به‌همراه یک دلیل و یک مدت برای قطع دسترسی، وارد کنید.",
+	"bulkblock-usernames": "نام‌های کاربری:",
+	"bulkblock-reason": "دلیل:",
+	"bulkblock-submit": "بستن",
+	"bulkblock-no-usernames": "هیچ نام کاربری معتبری ارائه نشد.",
+	"bulkblock-success": "دسترسی $1 {{PLURAL:$1|کاربر}} بسته شد.",
+	"bulkblock-invalid-username": "«$1» یک نام کاربری معتبر نیست.",
+	"bulkblock-non-existing-username": "کاربر «$1» موجود نیست.",
+	"bulkblock-already-blocked": "کاربری «$1» از پیش بسته شده است.",
+	"bulkblock-failed": "قطع دسترسی $1 {{PLURAL:$1|کاربر}} ممکن نبود.",
+	"bulkblock-log-failed": "درج سابقهٔ «$1» کاربر در سیاهه ممکن نبود",
+	"bulkblock-errors": "{{PLURAL:$1|خطای|خطاهای}} زیر رخ {{PLURAL:$1|داد|دادند}}:",
+	"bulkblock-expiry": "انقضا:",
+	"action-bulkblock": "قطع دسترسی کاربران به‌طور دسته‌جمعی",
+	"right-bulkblock": "قطع دسترسی کاربران به‌طور دسته‌جمعی"
+}
