@@ -1,0 +1,25 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"bulkblock": "په ډله‌ييز ډول په کارنانو بنديز لگول",
+	"bulkblock-extensionname": "ډله‌ييزبنديز",
+	"bulkblock-desc": "د ځانگړي مخ ليک‌سيمه کې د لړليک چمتو کولو سره پر کارنانو د بنديز لگولو اجازه ورکوي",
+	"bulkblock-intro": "دا مخ تاسو ته اجازه درکوي چې په يو وخت کې پر ډېرو کارنانو بنديز ولگوئ. لاندې بکس کې د شته کارنانو کارن‌نومونه، په هره کرښه کې يو يو، د بنديز لگولو لامل او بنديز موده وليکئ.",
+	"bulkblock-usernames": "کارن‌نومونه:",
+	"bulkblock-reason": "لامل:",
+	"bulkblock-submit": "بنديز",
+	"bulkblock-no-usernames": "هېڅ باوري کارن‌نومونه ورکړل شوي نه دي.",
+	"bulkblock-success": "په $1 {{PLURAL:$1|کارن|کارنانو}} بنديز لگېدلی.",
+	"bulkblock-invalid-username": "'$1' باوري کارن‌نوم نه دی.",
+	"bulkblock-non-existing-username": "'$1' شتون نلري.",
+	"bulkblock-already-blocked": "پر '$1' لادمخه بنديز لگېدلی.",
+	"bulkblock-failed": "$1 {{PLURAL:$1|کارن|کارنانو}} باندې بنديز نشي لگېدلی.",
+	"bulkblock-log-failed": "د '$1' کارن  يادښت ريکارډ ورټومبلو کې پاتې راغی",
+	"bulkblock-errors": "لاندې {{PLURAL:$1|پېښه شوه|پېښې شوې}}:",
+	"bulkblock-expiry": "پای‌نېټه:",
+	"action-bulkblock": "په ډله‌ييز ډول پر کارنانو بنديز لگول",
+	"right-bulkblock": "په ډله‌ييز ډول پر کارنانو بنديز لگول"
+}
